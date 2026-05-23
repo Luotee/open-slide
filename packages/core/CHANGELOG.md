@@ -1,5 +1,11 @@
 # @open-slide/core
 
+## 1.6.1
+
+### Patch Changes
+
+- [#154](https://github.com/1weiho/open-slide/pull/154) [`51108f1`](https://github.com/1weiho/open-slide/commit/51108f1547942c2fb1cf6d18c62e8c449b5be587) Thanks [@ridemountainpig](https://github.com/ridemountainpig)! - Truncate long slide titles in the editor header instead of letting them overlap the right-side controls.
+
 ## 1.6.0
 
 ### Minor Changes
